@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-11-19T07:05:02.302473-05:00",
+  "fetched_at": "2026-11-20T07:12:43.170476-05:00",
   "source": "Cherokee County GA Public Records",
   "date_range": {
-    "start": "2026-11-16",
-    "end": "2026-11-19"
+    "start": "2026-11-17",
+    "end": "2026-11-20"
   },
   "run_window": {
-    "start": "2026-11-16",
-    "end": "2026-11-19"
+    "start": "2026-11-17",
+    "end": "2026-11-20"
   },
   "archive_range": {
     "start": "2026-10-02",
@@ -17,7 +17,7 @@
     "start": "2026-09-24",
     "end": "2026-11-19"
   },
-  "new_this_run": 1,
+  "new_this_run": 0,
   "archive_total": 25,
   "dashboard_days": 120,
   "total": 25,
@@ -94,7 +94,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-11-19",
+      "last_verified": "2026-11-20",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -136,7 +136,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-11-19",
+      "last_verified": "2026-11-20",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -178,7 +178,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-11-19",
+      "last_verified": "2026-11-20",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -220,7 +220,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-11-19",
+      "last_verified": "2026-11-20",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -262,7 +262,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-11-19",
+      "last_verified": "2026-11-20",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -304,7 +304,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-11-19",
+      "last_verified": "2026-11-20",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -346,7 +346,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-11-19",
+      "last_verified": "2026-11-20",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -388,7 +388,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-11-19",
+      "last_verified": "2026-11-20",
       "flags": [
         "Pre-foreclosure",
         "New this week"
